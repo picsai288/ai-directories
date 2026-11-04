@@ -58,6 +58,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Sites Net](https://ai-sites.net/) - Chinese AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
+- [AI Tools Ratings](https://aitoolsratings.com/) - Find, compare and evaluate AI tools, skills, agents & models.
 - [AI Tools Directory](https://aidirectory.wiki/) - Curated list of AI tools
 - [AI Tools Pin](https://aitoolspin.com/) - The best AI tools by category
 - [AISuperSmart](https://www.aisupersmart.com/ai-tools-directory/) - 1500+ Ai Tools Which Update's Daily And Provide Ai News to World
